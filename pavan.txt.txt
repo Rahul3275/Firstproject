@@ -1,1 +1,2 @@
 Learing java programming languages is good it takes a good challenges
+Python,java,C,C++,HTML,CSS,Java Script,Spring,Spring boot,Microservices,React Js are my skills
